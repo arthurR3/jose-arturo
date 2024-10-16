@@ -32,6 +32,6 @@ jobs:
 
     - name: Intalar
       run : |
-          cd .github/workflow
+          cd .github/workflows
           ls -al
         
